@@ -1,5 +1,7 @@
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <meta name="google-site-verification" content="AFV2kHhkNglwHyqLvwfx-5wpeZHZGhPEDsNFeTL13Sk" />
+</head>
 
 ## 🚀 Hi there, I´m Renato Gomes Marcacini
 #### About
