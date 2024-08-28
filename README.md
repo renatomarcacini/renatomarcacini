@@ -51,3 +51,5 @@ A programação tem como ênfase projetar e desenvolver computadores, periféric
 ### 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://renatomarcacini.github.io/portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-gomes-marcacini-50b78b1a7/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatomarcacini&label=Profile%20views&color=0e75b6&style=flat" alt="renatomarcacini" /> </p>
